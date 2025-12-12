@@ -1,0 +1,15 @@
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/bin/Debug/net9.0/Atividade4_21_setembro
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/bin/Debug/net9.0/Atividade4_21_setembro.deps.json
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/bin/Debug/net9.0/Atividade4_21_setembro.runtimeconfig.json
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/bin/Debug/net9.0/Atividade4_21_setembro.dll
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/bin/Debug/net9.0/Atividade4_21_setembro.pdb
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/obj/Debug/net9.0/Atividade4_21_setembro.GeneratedMSBuildEditorConfig.editorconfig
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/obj/Debug/net9.0/Atividade4_21_setembro.AssemblyInfoInputs.cache
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/obj/Debug/net9.0/Atividade4_21_setembro.AssemblyInfo.cs
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/obj/Debug/net9.0/Atividade4_21_setembro.csproj.CoreCompileInputs.cache
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/obj/Debug/net9.0/Atividade4_21_setembro.sourcelink.json
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/obj/Debug/net9.0/Atividade4_21_setembro.dll
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/obj/Debug/net9.0/refint/Atividade4_21_setembro.dll
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/obj/Debug/net9.0/Atividade4_21_setembro.pdb
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/obj/Debug/net9.0/Atividade4_21_setembro.genruntimeconfig.cache
+/home/saulo/Documentos/AtividadeMatheusC#/Atividade4_21_setembro/obj/Debug/net9.0/ref/Atividade4_21_setembro.dll
